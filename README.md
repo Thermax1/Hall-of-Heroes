@@ -13,7 +13,7 @@
   - I have implemented four endpoints
   - /heroes which shows us the heroes in the json database
   - /factoids which shows us the weapons and a quote from the heros
-  -/heroes/{id} shows a specific hero in the database for a more personalized view
-  -heroes/{id}/factoids/{id} gives us the weapon and quote from a specific hero.
+  - /heroes/{id} shows a specific hero in the database for a more personalized view
+  - heroes/{id}/factoids/{id} gives us the weapon and quote from a specific hero.
   - There are personalized pages to make this information more enjoyable as well, with links in the home page.
   
