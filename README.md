@@ -1,6 +1,8 @@
-# CS612-Assignment-5
-
-- Using Springboot, I have created a Docker Container that can be run on computers with Docker installed.
+# Hall of Heroes
+## What is This?
+  - Using SpringBoot, I have created a Docker Container that can be run on computers with Docker installed.
+  - This container is a simple JSON database with a few video game heroes of mine. It contains their name, their weapon of choice, what series they're from, and a quote from them with a video on the page.
+  
 
 - How to Use
   1. Download zip and put in a folder of your choice.
