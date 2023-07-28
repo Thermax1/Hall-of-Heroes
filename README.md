@@ -18,4 +18,3 @@
   4. /heroes/{id} shows a specific hero in the database for a more personalized view
   5. heroes/{id}/factoids/{id} gives us the weapon and quote from a specific hero.
   6. There are personalized pages to make this information more enjoyable as well, with links in the home page.
-  
