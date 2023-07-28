@@ -12,10 +12,10 @@
   5. Navigate the site.
 
 ## What it Does
-  - I have implemented four endpoints
-  - /heroes which shows us the heroes in the json database
-  - /factoids which shows us the weapons and a quote from the heros
-  - /heroes/{id} shows a specific hero in the database for a more personalized view
-  - heroes/{id}/factoids/{id} gives us the weapon and quote from a specific hero.
-  - There are personalized pages to make this information more enjoyable as well, with links in the home page.
+  1. I have implemented four endpoints
+  2. /heroes which shows us the heroes in the json database
+  3. /factoids which shows us the weapons and a quote from the heros
+  4. /heroes/{id} shows a specific hero in the database for a more personalized view
+  5. heroes/{id}/factoids/{id} gives us the weapon and quote from a specific hero.
+  6. There are personalized pages to make this information more enjoyable as well, with links in the home page.
   
