@@ -3,8 +3,7 @@
   - Using SpringBoot, I have created a Docker Container that can be run on computers with Docker installed.
   - This container is a simple JSON database with a few video game heroes of mine. It contains their name, their weapon of choice, what series they're from, and a quote from them with a video on the page.
   
-
-- How to Use
+## How to Use
   1. Download zip and put in a folder of your choice.
   2. Navigate to the munozpage folder.
   3. type in `docker build -t munozpage .` and let it run
@@ -12,7 +11,7 @@
     - 8080 might already be running on your system. So, putting 8081 instead allows us to see the container's port 8080 on port 8081 in the host system.
   5. Navigate the site.
 
-- What it Does
+## What it Does
   - I have implemented four endpoints
   - /heroes which shows us the heroes in the json database
   - /factoids which shows us the weapons and a quote from the heros
